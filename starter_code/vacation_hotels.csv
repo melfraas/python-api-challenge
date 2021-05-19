@@ -1,0 +1,34 @@
+,city name,lat,lon,temp,humidity,cloudiness,wind speed,Hotel Name
+10,baker city,44.7749,-117.8344,287.37,35,clear sky,6.17,Geiser Grand Hotel
+30,nyurba,63.2842,118.3319,276.93,30,broken clouds,1.49,Gostinitsa Alrosa
+34,yellowknife,62.456,-114.3525,276.44,38,scattered clouds,6.17,The Explorer Hotel
+91,haines junction,60.7522,-137.5108,287.12,35,overcast clouds,1.03,Alcan Motor Inn
+99,maltahohe,-24.8333,16.9833,288.06,39,clear sky,1.32,Maltahöhe Hotel
+108,bulgan,48.8125,103.5347,288.53,40,broken clouds,6.11,
+152,swan hill,-35.3378,143.5544,289.4,47,broken clouds,3.68,Swan Hill Resort
+175,vanavara,60.34,102.2797,274.17,46,few clouds,3.75,
+186,port pirie,-33.1833,138.0167,289.2,34,overcast clouds,4.89,Ellen Hotel
+197,norman wells,65.282,-126.8329,283.17,43,broken clouds,2.06,Heritage Hotel
+218,verkhnevilyuysk,63.4453,120.3167,277.35,30,overcast clouds,1.64,Gostinitsa Mila
+220,zabaykalsk,49.6333,117.3167,288.32,40,overcast clouds,3.77,Manzhouli Aolong Business Hotel
+232,port augusta,-32.5,137.7667,289.23,30,overcast clouds,5.22,Majestic Oasis Apartments
+236,taywarah,33.35,64.4167,281.88,30,clear sky,1.84,
+297,sendafa,9.15,39.0333,287.79,43,overcast clouds,2.34,
+352,chara,56.9064,118.2631,273.58,43,broken clouds,0.31,Sberbank Rossii
+370,rafaela,-31.2503,-61.4867,288.18,49,overcast clouds,1.79,Hotel Plaza Rafaela
+371,ust-maya,60.4167,134.5333,280.87,26,overcast clouds,5.42,
+384,tagab,34.855,69.6492,288.1,47,clear sky,1.61,
+390,berdigestyakh,62.0989,126.6992,278.75,28,overcast clouds,1.81,
+394,alice springs,-23.7,133.8833,286.9,18,clear sky,5.82,DoubleTree by Hilton Hotel Alice Springs
+399,yulara,-25.2406,130.9889,288.06,29,overcast clouds,5.14,The Lost Camel Hotel - Ayers Rock Resort
+415,tahe,52.3333,124.7333,284.84,38,clear sky,1.48,
+428,chulman,56.8479,124.9104,275.87,31,scattered clouds,2.12,
+439,midyat,37.4247,41.3393,287.75,35,clear sky,1.5,Shmayaa Hotel
+471,barkly west,-28.5354,24.5215,281.75,36,clear sky,5.2,Die Olyfhuis
+483,zhigalovo,54.8097,105.1578,282.72,43,overcast clouds,2.17,"Gostinitsa ""Imperiya"""
+484,borogontsy,62.6683,131.1683,280.26,25,broken clouds,3.08,
+486,mugan,35.9404,101.3842,285.77,27,clear sky,5.87,
+515,zhigansk,66.7697,123.3711,276.68,39,overcast clouds,2.32,Gostinichnyy Kompleks Aylgy
+540,opuwo,-18.0607,13.84,288.76,36,clear sky,1.26,Opuwo Country Lodge
+551,chernyshevskiy,63.0128,112.4714,273.61,46,overcast clouds,1.88,
+562,manzhouli,49.6,117.4333,288.55,41,overcast clouds,4.17,Manzhouli Shangri-La Hotel
